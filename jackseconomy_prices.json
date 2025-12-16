@@ -1,0 +1,3099 @@
+{
+  "items": [
+    {
+      "item": "minecraft:cobblestone",
+      "type": "prices",
+      "adminShopSellPrice": 0.01,
+      "sellPrice": 0.01,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:cherry_sapling",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 10.0
+    },
+    {
+      "item": "minecraft:birch_sapling",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 10.0
+    },
+    {
+      "item": "minecraft:kelp",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:acacia_sapling",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 10.0
+    },
+    {
+      "item": "minecraft:oak_sapling",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 10.0
+    },
+    {
+      "item": "minecraft:dark_oak_sapling",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:jungle_sapling",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:spruce_sapling",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:dirt",
+      "type": "prices",
+      "adminShopSellPrice": 0.01,
+      "sellPrice": 0.01,
+      "importerBuyPrice": 1.0
+    },
+    {
+      "item": "minecraft:grass_block",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 10.0
+    },
+    {
+      "item": "minecraft:quartz",
+      "type": "prices",
+      "adminShopSellPrice": 0.5,
+      "sellPrice": 0.5,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:diamond",
+      "type": "prices",
+      "adminShopSellPrice": 500.0,
+      "sellPrice": 500.0,
+      "importerBuyPrice": 22500.0
+    },
+    {
+      "item": "minecraft:name_tag",
+      "type": "prices",
+      "adminShopSellPrice": 25.0,
+      "sellPrice": 25.0,
+      "importerBuyPrice": 750.0
+    },
+    {
+      "item": "minecraft:redstone",
+      "type": "prices",
+      "adminShopSellPrice": 12.5,
+      "sellPrice": 12.5,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:gravel",
+      "type": "prices",
+      "adminShopSellPrice": 0.15,
+      "sellPrice": 0.15,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "type": "prices",
+      "adminShopSellPrice": 0.35,
+      "sellPrice": 0.35,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:dripstone_block",
+      "type": "prices",
+      "adminShopSellPrice": 0.6,
+      "sellPrice": 0.6,
+      "importerBuyPrice": 1250.0
+    },
+    {
+      "item": "minecraft:soul_soil",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:white_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:air",
+      "type": "prices",
+      "adminShopSellPrice": 2000.0,
+      "sellPrice": 50.0
+    },
+    {
+      "item": "minecraft:candle",
+      "type": "prices",
+      "adminShopSellPrice": 0.25,
+      "sellPrice": 0.25,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:candle",
+      "type": "prices",
+      "sellPrice": 0.25,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:sea_pickle",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:tinted_glass",
+      "type": "prices",
+      "adminShopSellPrice": 0.1,
+      "sellPrice": 0.1,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:pointed_dripstone",
+      "type": "prices",
+      "adminShopSellPrice": 0.15,
+      "sellPrice": 0.15,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:sugar_cane",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:sweet_berries",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:glow_berries",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 85.0
+    },
+    {
+      "item": "minecraft:soul_sand",
+      "type": "prices",
+      "adminShopSellPrice": 0.15,
+      "sellPrice": 0.15,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:cocoa_beans",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:nether_wart",
+      "type": "prices",
+      "adminShopSellPrice": 0.1,
+      "sellPrice": 0.1,
+      "importerBuyPrice": 225.0
+    },
+    {
+      "item": "minecraft:cactus",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 95.0
+    },
+    {
+      "item": "minecraft:bamboo",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 55.0
+    },
+    {
+      "item": "minecraft:bone_block",
+      "type": "prices",
+      "adminShopSellPrice": 0.3,
+      "sellPrice": 0.3,
+      "importerBuyPrice": 60.0
+    },
+    {
+      "item": "minecraft:slime_block",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 1.0
+    },
+    {
+      "item": "minecraft:sand",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:glass",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:terracotta",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 35.0
+    },
+    {
+      "item": "minecraft:poisonous_potato",
+      "type": "prices",
+      "adminShopSellPrice": 0.1,
+      "sellPrice": 0.1,
+      "importerBuyPrice": 1.0
+    },
+    {
+      "item": "minecraft:clay",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "create:experience_nugget",
+      "type": "prices",
+      "adminShopSellPrice": 2.0,
+      "sellPrice": 2.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "create:andesite_alloy",
+      "type": "prices",
+      "adminShopSellPrice": 0.1,
+      "sellPrice": 0.1,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 25.0
+    },
+    {
+      "item": "minecraft:granite",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "type": "prices",
+      "adminShopSellPrice": 15.0,
+      "sellPrice": 15.0,
+      "importerBuyPrice": 15000.0
+    },
+    {
+      "item": "minecraft:wheat_seeds",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "farmersdelight:tomato_seeds",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "minecraft:phantom_membrane",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:andesite",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:string",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "minecraft:leather",
+      "type": "prices",
+      "adminShopSellPrice": 0.1,
+      "sellPrice": 0.1,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:carrot",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:wheat",
+      "type": "prices",
+      "adminShopSellPrice": 0.03,
+      "sellPrice": 0.03,
+      "importerBuyPrice": 10.0
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "type": "prices",
+      "adminShopSellPrice": 0.25,
+      "sellPrice": 0.25,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:beef",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:diorite",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "type": "prices",
+      "adminShopSellPrice": 5.25,
+      "sellPrice": 5.25,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:potato",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:bone",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:chicken",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:slime_ball",
+      "type": "prices",
+      "adminShopSellPrice": 0.01,
+      "sellPrice": 0.01,
+      "importerBuyPrice": 10.0
+    },
+    {
+      "item": "minecraft:lead",
+      "type": "prices",
+      "adminShopSellPrice": 0.25,
+      "sellPrice": 0.25,
+      "importerBuyPrice": 70.0
+    },
+    {
+      "item": "minecraft:clay_ball",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "minecraft:mutton",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "farmersdelight:cabbage_seeds",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "minecraft:spider_eye",
+      "type": "prices",
+      "adminShopSellPrice": 0.1,
+      "sellPrice": 0.1,
+      "importerBuyPrice": 1.0
+    },
+    {
+      "item": "minecraft:rotten_flesh",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 1.0
+    },
+    {
+      "item": "minecraft:cornflower",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:copper_ingot",
+      "type": "prices",
+      "adminShopSellPrice": 3.35,
+      "sellPrice": 3.35,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:beetroot_seeds",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "minecraft:brick",
+      "type": "prices",
+      "adminShopSellPrice": 0.1,
+      "sellPrice": 0.1,
+      "importerBuyPrice": 10.0
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "type": "prices",
+      "adminShopSellPrice": 4.75,
+      "sellPrice": 4.75,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:porkchop",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:echo_shard",
+      "type": "prices",
+      "adminShopSellPrice": 250.0,
+      "sellPrice": 250.0,
+      "importerBuyPrice": 2000.0
+    },
+    {
+      "item": "create:limestone",
+      "type": "prices",
+      "adminShopSellPrice": 1.5,
+      "sellPrice": 1.5,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:prismarine_crystals",
+      "type": "prices",
+      "adminShopSellPrice": 3.0,
+      "sellPrice": 3.0,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:dragon_breath",
+      "type": "prices",
+      "adminShopSellPrice": 65.0,
+      "sellPrice": 65.0,
+      "importerBuyPrice": 1250.0
+    },
+    {
+      "item": "create:crimsite",
+      "type": "prices",
+      "adminShopSellPrice": 1.25,
+      "sellPrice": 1.25,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:honeycomb",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 10.0
+    },
+    {
+      "item": "minecraft:feather",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 10.0
+    },
+    {
+      "item": "minecraft:magma_cream",
+      "type": "prices",
+      "adminShopSellPrice": 2.0,
+      "sellPrice": 2.0,
+      "importerBuyPrice": 115.0
+    },
+    {
+      "item": "create:scorchia",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:flint",
+      "type": "prices",
+      "adminShopSellPrice": 3.75,
+      "sellPrice": 3.75,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "create:scoria",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "create:asurine",
+      "type": "prices",
+      "adminShopSellPrice": 1.25,
+      "sellPrice": 1.25,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:paper",
+      "type": "prices",
+      "adminShopSellPrice": 0.06,
+      "sellPrice": 0.06,
+      "importerBuyPrice": 15.0
+    },
+    {
+      "item": "minecraft:shulker_shell",
+      "type": "prices",
+      "adminShopSellPrice": 75.0,
+      "sellPrice": 75.0,
+      "importerBuyPrice": 1500.0
+    },
+    {
+      "item": "minecraft:ghast_tear",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:nautilus_shell",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:sugar",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "create:ochrum",
+      "type": "prices",
+      "adminShopSellPrice": 1.25,
+      "sellPrice": 1.25,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "create_crush_everything:netherite_shard",
+      "type": "prices",
+      "adminShopSellPrice": 200.0,
+      "sellPrice": 200.0,
+      "importerBuyPrice": 5000.0
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "type": "prices",
+      "adminShopSellPrice": 1.0,
+      "sellPrice": 1.0,
+      "importerBuyPrice": 25.0
+    },
+    {
+      "item": "create_crush_everything:diamond_shard",
+      "type": "prices",
+      "adminShopSellPrice": 150.0,
+      "sellPrice": 150.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 500.0
+    },
+    {
+      "item": "minecraft:prismarine_shard",
+      "type": "prices",
+      "adminShopSellPrice": 3.0,
+      "sellPrice": 3.0,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:blaze_rod",
+      "type": "prices",
+      "adminShopSellPrice": 10.0,
+      "sellPrice": 10.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:book",
+      "type": "prices",
+      "adminShopSellPrice": 0.35,
+      "sellPrice": 0.35,
+      "importerBuyPrice": 125.0
+    },
+    {
+      "item": "create:veridium",
+      "type": "prices",
+      "adminShopSellPrice": 1.25,
+      "sellPrice": 1.25,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "create_netherless:netherite_fragment",
+      "type": "prices",
+      "adminShopSellPrice": 45.0,
+      "sellPrice": 45.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:nether_brick",
+      "type": "prices",
+      "adminShopSellPrice": 0.25,
+      "sellPrice": 0.25,
+      "importerBuyPrice": 85.0
+    },
+    {
+      "item": "minecraft:turtle_egg",
+      "type": "prices",
+      "adminShopSellPrice": 2.0,
+      "sellPrice": 2.0,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:deepslate",
+      "type": "prices",
+      "adminShopSellPrice": 0.03,
+      "sellPrice": 0.03,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:sea_lantern",
+      "type": "prices",
+      "adminShopSellPrice": 3.0,
+      "sellPrice": 3.0,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:birch_log",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:cherry_log",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:reinforced_deepslate",
+      "type": "prices",
+      "adminShopSellPrice": 450.0,
+      "sellPrice": 450.0,
+      "importerBuyPrice": 7500.0
+    },
+    {
+      "item": "minecraft:sniffer_egg",
+      "type": "prices",
+      "adminShopSellPrice": 150.0,
+      "sellPrice": 150.0,
+      "importerBuyPrice": 3000.0
+    },
+    {
+      "item": "minecraft:bell",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:gilded_blackstone",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:bamboo_block",
+      "type": "prices",
+      "adminShopSellPrice": 0.18,
+      "sellPrice": 0.18,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:magma_block",
+      "type": "prices",
+      "adminShopSellPrice": 10.0,
+      "sellPrice": 10.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:dried_kelp_block",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:end_portal_frame",
+      "type": "prices",
+      "adminShopSellPrice": 5000.0,
+      "sellPrice": 5000.0,
+      "importerBuyPrice": 25000.0
+    },
+    {
+      "item": "minecraft:acacia_log",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:mangrove_log",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:spruce_log",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:smooth_stone",
+      "type": "prices",
+      "adminShopSellPrice": 0.03,
+      "sellPrice": 0.03,
+      "importerBuyPrice": 0.03
+    },
+    {
+      "item": "minecraft:crimson_stem",
+      "type": "prices",
+      "adminShopSellPrice": 0.4,
+      "sellPrice": 0.4,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:cobbled_deepslate",
+      "type": "prices",
+      "adminShopSellPrice": 0.02,
+      "sellPrice": 0.02,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:oak_log",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:dark_oak_log",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:end_stone",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 1250.0
+    },
+    {
+      "item": "minecraft:bricks",
+      "type": "prices",
+      "adminShopSellPrice": 1.0,
+      "sellPrice": 1.0,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:warped_stem",
+      "type": "prices",
+      "adminShopSellPrice": 0.4,
+      "sellPrice": 0.4,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:dragon_egg",
+      "type": "prices",
+      "adminShopSellPrice": 100.0,
+      "sellPrice": 100.0,
+      "importerBuyPrice": 5000.0
+    },
+    {
+      "item": "minecraft:red_nether_bricks",
+      "type": "prices",
+      "adminShopSellPrice": 3.0,
+      "sellPrice": 3.0,
+      "importerBuyPrice": 55.0
+    },
+    {
+      "item": "minecraft:jungle_log",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:purpur_block",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 1250.0
+    },
+    {
+      "item": "minecraft:elytra",
+      "nbt": {
+        "Damage": 0.0
+      },
+      "type": "prices",
+      "adminShopSellPrice": 500.0,
+      "sellPrice": 500.0,
+      "importerBuyPrice": 7500.0
+    },
+    {
+      "item": "minecraft:egg",
+      "type": "prices",
+      "adminShopSellPrice": 3.0,
+      "sellPrice": 3.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:beetroot",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 2.0
+    },
+    {
+      "item": "minecraft:snowball",
+      "type": "prices",
+      "adminShopSellPrice": 0.01,
+      "sellPrice": 0.01,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:enchanted_golden_apple",
+      "type": "prices",
+      "adminShopSellPrice": 250.0,
+      "sellPrice": 250.0,
+      "importerBuyPrice": 2500.0
+    },
+    {
+      "item": "minecraft:scute",
+      "type": "prices",
+      "adminShopSellPrice": 25.0,
+      "sellPrice": 25.0,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:melon_slice",
+      "type": "prices",
+      "adminShopSellPrice": 0.03,
+      "sellPrice": 0.03,
+      "importerBuyPrice": 40.0
+    },
+    {
+      "item": "minecraft:golden_carrot",
+      "type": "prices",
+      "adminShopSellPrice": 10.0,
+      "sellPrice": 10.0,
+      "importerBuyPrice": 450.0
+    },
+    {
+      "item": "minecraft:ink_sac",
+      "type": "prices",
+      "adminShopSellPrice": 0.15,
+      "sellPrice": 0.15,
+      "importerBuyPrice": 15.0
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "type": "prices",
+      "adminShopSellPrice": 25.0,
+      "sellPrice": 25.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:arrow",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "minecraft:glow_ink_sac",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 25.0
+    },
+    {
+      "item": "minecraft:apple",
+      "type": "prices",
+      "adminShopSellPrice": 0.25,
+      "sellPrice": 0.25,
+      "importerBuyPrice": 235.0
+    },
+    {
+      "item": "minecraft:totem_of_undying",
+      "type": "prices",
+      "adminShopSellPrice": 1250.0,
+      "sellPrice": 1250.0,
+      "importerBuyPrice": 1250.0
+    },
+    {
+      "item": "minecraft:wooden_sword",
+      "nbt": {
+        "Damage": 0.0
+      },
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "minecraft:azalea",
+      "type": "prices",
+      "adminShopSellPrice": 0.05
+    },
+    {
+      "item": "minecraft:flowering_azalea",
+      "type": "prices",
+      "adminShopSellPrice": 0.05
+    },
+    {
+      "item": "minecraft:spruce_leaves",
+      "type": "prices",
+      "adminShopSellPrice": 1.25,
+      "sellPrice": 1.25,
+      "importerBuyPrice": 15.0
+    },
+    {
+      "item": "minecraft:acacia_leaves",
+      "type": "prices",
+      "adminShopSellPrice": 1.25,
+      "sellPrice": 1.25,
+      "importerBuyPrice": 15.0
+    },
+    {
+      "item": "minecraft:mangrove_leaves",
+      "type": "prices",
+      "adminShopSellPrice": 1.25,
+      "sellPrice": 1.25,
+      "importerBuyPrice": 15.0
+    },
+    {
+      "item": "minecraft:dark_oak_leaves",
+      "type": "prices",
+      "adminShopSellPrice": 1.25,
+      "sellPrice": 1.25,
+      "importerBuyPrice": 30.0
+    },
+    {
+      "item": "minecraft:azalea_leaves",
+      "type": "prices",
+      "adminShopSellPrice": 2.5,
+      "sellPrice": 2.5,
+      "importerBuyPrice": 60.0
+    },
+    {
+      "item": "minecraft:jungle_leaves",
+      "type": "prices",
+      "adminShopSellPrice": 1.25,
+      "sellPrice": 1.25,
+      "importerBuyPrice": 30.0
+    },
+    {
+      "item": "minecraft:cherry_leaves",
+      "type": "prices",
+      "adminShopSellPrice": 1.25,
+      "sellPrice": 1.25,
+      "importerBuyPrice": 15.0
+    },
+    {
+      "item": "minecraft:flowering_azalea_leaves",
+      "type": "prices",
+      "adminShopSellPrice": 3.75,
+      "sellPrice": 3.75,
+      "importerBuyPrice": 90.0
+    },
+    {
+      "item": "minecraft:birch_leaves",
+      "type": "prices",
+      "adminShopSellPrice": 1.25,
+      "sellPrice": 1.25,
+      "importerBuyPrice": 15.0
+    },
+    {
+      "item": "minecraft:oak_leaves",
+      "type": "prices",
+      "adminShopSellPrice": 1.25,
+      "sellPrice": 1.25,
+      "importerBuyPrice": 15.0
+    },
+    {
+      "item": "minecraft:calcite",
+      "type": "prices",
+      "sellPrice": 0.2,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "minecraft:mud",
+      "type": "prices",
+      "sellPrice": 0.2,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "createaddition:biomass_pellet",
+      "type": "prices",
+      "adminShopSellPrice": 6.25,
+      "sellPrice": 6.25,
+      "importerBuyPrice": 112.5
+    },
+    {
+      "item": "createaddition:biomass",
+      "type": "prices",
+      "adminShopSellPrice": 3.25,
+      "sellPrice": 3.25,
+      "importerBuyPrice": 29.25
+    },
+    {
+      "item": "createaddition:biomass_pellet_block",
+      "type": "prices",
+      "adminShopSellPrice": 56.25,
+      "sellPrice": 56.25,
+      "importerBuyPrice": 1012.5
+    },
+    {
+      "item": "minecraft:charcoal",
+      "type": "prices",
+      "adminShopSellPrice": 1.5,
+      "sellPrice": 1.5,
+      "importerBuyPrice": 10.5
+    },
+    {
+      "item": "minecraft:emerald",
+      "type": "prices",
+      "adminShopSellPrice": 15.0
+    },
+    {
+      "item": "minecraft:light_blue_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:yellow_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:magenta_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:red_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:orange_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:lime_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:gray_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:black_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:green_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:light_gray_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:cyan_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:pink_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:blue_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:brown_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:purple_wool",
+      "type": "prices",
+      "adminShopSellPrice": 0.2,
+      "sellPrice": 0.2,
+      "importerBuyPrice": 8.5
+    },
+    {
+      "item": "minecraft:stone",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:tuff",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "create:sweet_roll",
+      "type": "prices",
+      "adminShopSellPrice": 15.0,
+      "sellPrice": 15.0
+    },
+    {
+      "item": "farmersdelight:sweet_berry_cheesecake_slice",
+      "type": "prices",
+      "adminShopSellPrice": 3.85,
+      "sellPrice": 3.85
+    },
+    {
+      "item": "farmersdelight:hamburger",
+      "type": "prices",
+      "adminShopSellPrice": 25.0,
+      "sellPrice": 25.0
+    },
+    {
+      "item": "create_confectionery:gingerbread_man",
+      "type": "prices",
+      "adminShopSellPrice": 10.0,
+      "sellPrice": 10.0
+    },
+    {
+      "item": "farmersdelight:honey_cookie",
+      "type": "prices",
+      "adminShopSellPrice": 6.0,
+      "sellPrice": 6.0
+    },
+    {
+      "item": "farmersdelight:sweet_berry_cookie",
+      "type": "prices",
+      "adminShopSellPrice": 5.5,
+      "sellPrice": 5.5
+    },
+    {
+      "item": "minecraft:air",
+      "type": "prices",
+      "adminShopSellPrice": 15.0,
+      "sellPrice": 15.0
+    },
+    {
+      "item": "farmersdelight:apple_pie_slice",
+      "type": "prices",
+      "adminShopSellPrice": 3.75,
+      "sellPrice": 3.75
+    },
+    {
+      "item": "farmersdelight:chocolate_pie_slice",
+      "type": "prices",
+      "adminShopSellPrice": 4.0,
+      "sellPrice": 4.0
+    },
+    {
+      "item": "minecraft:air",
+      "type": "prices",
+      "adminShopSellPrice": 20.0,
+      "sellPrice": 20.0
+    },
+    {
+      "item": "farmersdelight:cake_slice",
+      "type": "prices",
+      "adminShopSellPrice": 3.5,
+      "sellPrice": 3.5
+    },
+    {
+      "item": "farmersdelight:kelp_roll_slice",
+      "type": "prices",
+      "adminShopSellPrice": 7.5,
+      "sellPrice": 7.5
+    },
+    {
+      "item": "farmersdelight:rice",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 5.0
+    },
+    {
+      "item": "farmersdelight:onion",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:air",
+      "type": "prices",
+      "sellPrice": 2000.0,
+      "importerBuyPrice": 20000.0
+    },
+    {
+      "item": "netherstar_shards:netherstarshard",
+      "type": "prices",
+      "adminShopSellPrice": 2000.0,
+      "sellPrice": 2000.0,
+      "importerBuyPrice": 20000.0
+    },
+    {
+      "item": "minecraft:rabbit_hide",
+      "type": "prices",
+      "sellPrice": 0.6,
+      "importerBuyPrice": 20.0
+    },
+    {
+      "item": "minecraft:red_mushroom_block",
+      "type": "prices",
+      "sellPrice": 0.75,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:brown_mushroom_block",
+      "type": "prices",
+      "sellPrice": 0.75,
+      "importerBuyPrice": 50.0
+    },
+    {
+      "item": "minecraft:mycelium",
+      "type": "prices",
+      "sellPrice": 1.25,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "minecraft:coal",
+      "type": "prices",
+      "adminShopSellPrice": 0.6,
+      "sellPrice": 0.6,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "biome_beans:magic_bean",
+      "type": "prices",
+      "adminShopSellPrice": 5.0,
+      "sellPrice": 5.0,
+      "importerBuyPrice": 100.0
+    },
+    {
+      "item": "biome_beans:rotten_bean",
+      "type": "prices",
+      "adminShopSellPrice": 10.0,
+      "sellPrice": 10.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "biome_beans:mixed_bean_bag",
+      "type": "prices",
+      "adminShopSellPrice": 400.0,
+      "sellPrice": 400.0,
+      "importerBuyPrice": 4000.0
+    },
+    {
+      "item": "biome_beans:golden_bean",
+      "type": "prices",
+      "adminShopSellPrice": 50.0,
+      "sellPrice": 25.0,
+      "importerBuyPrice": 1000.0
+    },
+    {
+      "item": "minecraft:mangrove_propagule",
+      "type": "prices",
+      "adminShopSellPrice": 0.05,
+      "sellPrice": 0.05,
+      "importerBuyPrice": 10.0
+    },
+    
+
+
+
+
+
+
+
+
+
+    {
+      "item":"fruitsdelight:hamimelon_slice",
+      "type":"prices",
+      "adminShopSellPrice":0.03,
+      "sellPrice": 0.03,
+      "importerBuyPrice": 40.0
+    },
+    {
+      "item":"farmersdelight:pumpkin_slice",
+      "type":"prices",
+      "adminShopSellPrice":0.03,
+      "sellPrice": 0.03,
+      "importerBuyPrice": 40.0
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "item": "create:copper_nugget",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 24
+    },
+    {
+      "item": "pamhc2crops:cornseeditem",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Pam's Harvestcraft 2",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "fruitsdelight:hamimelon",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "jeg:scrap",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 8
+    },
+    {
+      "item": "minecraft:glow_lichen",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 10.0,
+      "category": "$10 Shop:Items",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "botania:overgrowth_seed",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 2500.0,
+      "category": "$1000+ Shop:Seeds",
+      "adminShopSlot": 8
+    },
+    {
+      "item":"table_top_craft:chess_piece_figure",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 10.0,
+      "category": "$10 Shop:Items",
+      "adminShopSlot": 18
+    },
+    {
+      "item":"psychadelic:rubber_tree_sapling",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 20.0,
+      "category": "$20 Shop:Saplings",
+      "adminShopSlot": 9
+    },
+    {
+      "item":"psychadelic:magic_mushroomspores",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 7
+    },
+    {
+      "item":"psychadelic:hawaiian_baby_woodrose_seeds",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 2500.0,
+      "category": "$1000+ Shop:Seeds",
+      "adminShopSlot": 1
+    },
+    {
+      "item":"psychadelic:morning_glory_seeds",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 2500.0,
+      "category": "$1000+ Shop:Seeds",
+      "adminShopSlot": 0
+    },
+    {
+      "item":"psychadelic:tobaccoplant",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 2500.0,
+      "category": "$1000+ Shop:Plants",
+      "adminShopSlot": 0
+    },
+    {
+      "item":"psychadelic:weedplant",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 2500.0,
+      "category": "$1000+ Shop:Plants",
+      "adminShopSlot": 1
+    },
+    {
+      "item":"psychadelic:lily_pad",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 2500.0,
+      "category": "$1000+ Shop:Plants",
+      "adminShopSlot": 2
+    },
+    {
+      "item":"psychadelic:salviaplant",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 2500.0,
+      "category": "$1000+ Shop:Plants",
+      "adminShopSlot": 18
+    },
+    {
+      "item":"psychadelic:commonreed",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 2500.0,
+      "category": "$1000+ Shop:Plants",
+      "adminShopSlot": 9
+    },
+    {
+      "item":"psychadelic:san_pedro_plant",
+      "type": "adminshop",
+      "adminShopBuyPrice" : 2500.0,
+      "category": "$1000+ Shop:Plants",
+      "adminShopSlot": 10
+    },
+
+
+
+
+
+
+
+
+
+    {
+      "item": "minecraft:birch_log",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 19
+    },
+    {
+      "item": "minecraft:string",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Items",
+      "adminShopSlot": 3
+    },
+    {
+      "item": "minecraft:lead",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 3
+    },
+    {
+      "item": "minecraft:blaze_rod",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 23
+    },
+    {
+      "item": "create:veridium",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 20
+    },
+    {
+      "item": "minecraft:mangrove_propagule",
+      "type": "adminshop",
+      "adminShopBuyPrice": 10.0,
+      "category": "$10 Shop:Saplings",
+      "adminShopSlot": 4
+    },
+    {
+      "item": "minecraft:mycelium",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Blocks",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "minecraft:carrot",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Items",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "minecraft:grass_block",
+      "type": "adminshop",
+      "adminShopBuyPrice": 10.0,
+      "category": "$10 Shop:Blocks",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:clay_ball",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Items",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "create:zinc_ingot",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 13
+    },
+    {
+      "item": "minecraft:bricks",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "farmersdelight:tomato_seeds",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Seeds",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:sweet_berries",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 12
+    },
+    {
+      "item": "minecraft:glow_ink_sac",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 3
+    },
+    {
+      "item": "minecraft:gravel",
+      "type": "adminshop",
+      "adminShopBuyPrice": 10.0,
+      "category": "$10 Shop:Blocks",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:egg",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 14
+    },
+    {
+      "item": "minecraft:sand",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 10
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 23
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 22
+    },
+    {
+      "item": "jackseconomy:empty_importer_manifest",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:deepslate",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 11
+    },
+    {
+      "item": "farmersdelight:onion",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Items",
+      "adminShopSlot": 11
+    },
+    {
+      "item": "ftbquests:book",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1.0,
+      "category": "$1 Shop:Items",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "create:experience_nugget",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 15
+    },
+    {
+      "item": "create:handheld_worldshaper",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1750000.0,
+      "category": "$Creative Shop:Items",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "minecraft:scute",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 4
+    },
+    {
+      "item": "minecraft:poisonous_potato",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1.0,
+      "category": "$1 Shop:Items",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "create:zinc_nugget",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 25
+    },
+    {
+      "item": "minecraft:honeycomb",
+      "type": "adminshop",
+      "adminShopBuyPrice": 10.0,
+      "category": "$10 Shop:Items",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "jackseconomy:mechanical_importer",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:ice",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 13
+    },
+    {
+      "item": "minecraft:granite",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 20
+    },
+    {
+      "item": "minecraft:bamboo_block",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 26
+    },
+    {
+      "item": "minecraft:slime_block",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1.0,
+      "category": "$1 Shop:Blocks",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:shears",
+      "nbt": {
+        "Damage": 0.0
+      },
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "minecraft:flint",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Items",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:prismarine_shard",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 20
+    },
+    {
+      "item": "storagedrawers:creative_storage_upgrade",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1.0E7,
+      "category": "$Creative Shop:Items",
+      "adminShopSlot": 19
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "minecraft:glowstone",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Blocks",
+      "adminShopSlot": 20
+    },
+    {
+      "item": "minecraft:pointed_dripstone",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 20
+    },
+    {
+      "item": "create_crush_everything:diamond_shard",
+      "type": "adminshop",
+      "adminShopBuyPrice": 2500.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 12
+    },
+    {
+      "item": "minecraft:stick",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1.0,
+      "category": "$1 Shop:Items",
+      "adminShopSlot": 3
+    },
+    {
+      "item": "create:limestone",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Blocks",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:cobbled_deepslate",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 18
+    },
+    {
+      "item": "minecraft:moss_block",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:soul_sand",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Blocks",
+      "adminShopSlot": 18
+    },
+    {
+      "item": "minecraft:chicken",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Items",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:red_mushroom_block",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 3
+    },
+    {
+      "item": "minecraft:clay",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:copper_ingot",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 10
+    },
+    {
+      "item": "minecraft:mutton",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Items",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:warped_stem",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 5
+    },
+    {
+      "item": "minecraft:reinforced_deepslate",
+      "type": "adminshop",
+      "adminShopBuyPrice": 7500.0,
+      "category": "$1000+ Shop:Blocks",
+      "adminShopSlot": 18
+    },
+    {
+      "item": "minecraft:stone_sword",
+      "nbt": {
+        "Damage": 0.0
+      },
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Items",
+      "adminShopSlot": 19
+    },
+    {
+      "item": "minecraft:warped_nylium",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 10
+    },
+    {
+      "item": "minecraft:elytra",
+      "nbt": {
+        "Damage": 0.0
+      },
+      "type": "adminshop",
+      "adminShopBuyPrice": 7500.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 22
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "type": "adminshop",
+      "adminShopBuyPrice": 15000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 24
+    },
+    {
+      "item": "minecraft:book",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:jungle_sapling",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Saplings",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:melon",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 20
+    },
+    {
+      "item": "minecraft:sugar",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Items",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:cherry_sapling",
+      "type": "adminshop",
+      "adminShopBuyPrice": 10.0,
+      "category": "$10 Shop:Saplings",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:honey_block",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Blocks",
+      "adminShopSlot": 10
+    },
+    {
+      "item": "minecraft:jungle_log",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 21
+    },
+    {
+      "item": "minecraft:dragon_breath",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1250.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "minecraft:oak_log",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 18
+    },
+    {
+      "item": "minecraft:spruce_log",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 20
+    },
+    {
+      "item": "biome_beans:magic_bean",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 26
+    },
+    {
+      "item": "minecraft:andesite",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 22
+    },
+    {
+      "item": "biome_beans:golden_bean",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 17
+    },
+    {
+      "item": "minecraft:wooden_sword",
+      "nbt": {
+        "Damage": 0.0
+      },
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Items",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "minecraft:bone",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Items",
+      "adminShopSlot": 20
+    },
+    {
+      "item": "minecraft:end_stone",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1250.0,
+      "category": "$1000+ Shop:Blocks",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:acacia_log",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 22
+    },
+    {
+      "item": "jackseconomy:intermediate_wallet",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:cherry_log",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 25
+    },
+    {
+      "item": "minecraft:rabbit_hide",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Items",
+      "adminShopSlot": 18
+    },
+    {
+      "item": "minecraft:gilded_blackstone",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 11
+    },
+    {
+      "item": "minecraft:phantom_membrane",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 22
+    },
+    {
+      "item": "minecraft:dark_oak_log",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 23
+    },
+    {
+      "item": "minecraft:turtle_egg",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:diorite",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 21
+    },
+    {
+      "item": "create:andesite_alloy",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "minecraft:dragon_egg",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 21
+    },
+    {
+      "item": "minecraft:mangrove_log",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 24
+    },
+    {
+      "item": "jackseconomy:the_phat_wallet",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "create_crush_everything:netherite_shard",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 13
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 12
+    },
+    {
+      "item": "minecraft:budding_amethyst",
+      "type": "adminshop",
+      "adminShopBuyPrice": 2500.0,
+      "category": "$1000+ Shop:Blocks",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "minecraft:leather_leggings",
+      "nbt": {
+        "Damage": 0.0
+      },
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 15
+    },
+    {
+      "item": "minecraft:spider_eye",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1.0,
+      "category": "$1 Shop:Items",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:warden_spawn_egg",
+      "type": "adminshop",
+      "adminShopBuyPrice": 7500.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 23
+    },
+    {
+      "item": "minecraft:oak_sapling",
+      "type": "adminshop",
+      "adminShopBuyPrice": 10.0,
+      "category": "$10 Shop:Saplings",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "create_netherless:netherite_fragment",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 21
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 25
+    },
+    {
+      "item": "iced_lava:iced_lava",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 14
+    },
+    {
+      "item": "minecraft:magma_cream",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:quartz",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 18
+    },
+    {
+      "item": "create:crimsite",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 19
+    },
+    {
+      "item": "jackseconomy:empty_exporter_manifest",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 19
+    },
+    {
+      "item": "minecraft:potato",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Items",
+      "adminShopSlot": 10
+    },
+    {
+      "item": "jackseconomy:golden_exporter_manifest",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:crimson_stem",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 6
+    },
+    {
+      "item": "minecraft:dirt",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1.0,
+      "category": "$1 Shop:Blocks",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:beetroot_seeds",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Seeds",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:sheep_spawn_egg",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 14
+    },
+    {
+      "item": "minecraft:leather_boots",
+      "nbt": {
+        "Damage": 0.0
+      },
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 16
+    },
+    {
+      "item": "jackseconomy:mechanical_exporter",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:nether_quartz_ore",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Blocks",
+      "adminShopSlot": 11
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 21
+    },
+    {
+      "item": "create_confectionery:little_gingerbread_man_spawn_egg",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 17
+    },
+    {
+      "item": "minecraft:shulker_shell",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1500.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 10
+    },
+    {
+      "item": "minecraft:prismarine_crystals",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 19
+    },
+    {
+      "item": "minecraft:sea_pickle",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "minecraft:purpur_block",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1250.0,
+      "category": "$1000+ Shop:Blocks",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:sea_lantern",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Blocks",
+      "adminShopSlot": 21
+    },
+    {
+      "item": "minecraft:leather_helmet",
+      "nbt": {
+        "Damage": 0.0
+      },
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 13
+    },
+    {
+      "item": "minecraft:end_portal_frame",
+      "type": "adminshop",
+      "adminShopBuyPrice": 25000.0,
+      "category": "$1000+ Shop:Blocks",
+      "adminShopSlot": 20
+    },
+    {
+      "item": "minecraft:enchanted_golden_apple",
+      "type": "adminshop",
+      "adminShopBuyPrice": 2500.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 18
+    },
+    {
+      "item": "minecraft:cocoa_beans",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 11
+    },
+    {
+      "item": "create:scoria",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Blocks",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:stone",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 19
+    },
+    {
+      "item": "minecraft:echo_shard",
+      "type": "adminshop",
+      "adminShopBuyPrice": 2000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 11
+    },
+    {
+      "item": "minecraft:pumpkin",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:dark_oak_sapling",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Saplings",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "create:scorchia",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Blocks",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:porkchop",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Items",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:rotten_flesh",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1.0,
+      "category": "$1 Shop:Items",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:bamboo",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 10
+    },
+    {
+      "item": "create:creative_fluid_tank",
+      "type": "adminshop",
+      "adminShopBuyPrice": 350000.0,
+      "category": "$Creative Shop:Blocks",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "minecraft:totem_of_undying",
+      "type": "adminshop",
+      "adminShopBuyPrice": 55000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 26
+    },
+    {
+      "item": "jackseconomy:advanced_wallet",
+      "type": "adminshop",
+      "adminShopBuyPrice": 10000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "farmersdelight:rice",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Items",
+      "adminShopSlot": 4
+    },
+    {
+      "item": "minecraft:bell",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 18
+    },
+    {
+      "item": "minecraft:mud",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Blocks",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "biome_beans:rotten_bean",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 26
+    },
+    {
+      "item": "minecraft:spawner",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20000.0,
+      "category": "$1000+ Shop:Blocks",
+      "adminShopSlot": 19
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 11
+    },
+    {
+      "item": "minecraft:bucket",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 19
+    },
+    {
+      "item": "minecraft:azalea",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 6
+    },
+    {
+      "item": "minecraft:flowering_azalea",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 5
+    },
+    {
+      "item": "minecraft:leather",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 12
+    },
+    {
+      "item": "minecraft:cow_spawn_egg",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 15
+    },
+    {
+      "item": "minecraft:acacia_sapling",
+      "type": "adminshop",
+      "adminShopBuyPrice": 10.0,
+      "category": "$10 Shop:Saplings",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "storagedrawers:creative_vending_upgrade",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5000000.0,
+      "category": "$Creative Shop:Items",
+      "adminShopSlot": 18
+    },
+    {
+      "item": "minecraft:cactus",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 11
+    },
+    {
+      "item": "minecraft:sugar_cane",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 10
+    },
+    {
+      "item": "minecraft:snowball",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 13
+    },
+    {
+      "item": "minecraft:leather_chestplate",
+      "nbt": {
+        "Damage": 0.0
+      },
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Items",
+      "adminShopSlot": 14
+    },
+    {
+      "item": "biome_beans:mixed_bean_bag",
+      "type": "adminshop",
+      "adminShopBuyPrice": 4000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 20
+    },
+    {
+      "item": "create:asurine",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 22
+    },
+    {
+      "item": "minecraft:ghast_tear",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 24
+    },
+    {
+      "item": "minecraft:cornflower",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Items",
+      "adminShopSlot": 12
+    },
+    {
+      "item": "create:creative_blaze_cake",
+      "type": "adminshop",
+      "adminShopBuyPrice": 250000.0,
+      "category": "$Creative Shop:Items",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:tuff",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 18
+    },
+    {
+      "item": "minecraft:nautilus_shell",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:birch_sapling",
+      "type": "adminshop",
+      "adminShopBuyPrice": 10.0,
+      "category": "$10 Shop:Saplings",
+      "adminShopSlot": 3
+    },
+    {
+      "item": "minecraft:smooth_stone",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Blocks",
+      "adminShopSlot": 10
+    },
+    {
+      "item": "createcasing:creative_cogwheel",
+      "type": "adminshop",
+      "adminShopBuyPrice": 300000.0,
+      "category": "$Creative Shop:Blocks",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:magma_block",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 12
+    },
+    {
+      "item": "minecraft:crimson_nylium",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 9
+    },
+    {
+      "item": "minecraft:coal",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 15
+    },
+    {
+      "item": "minecraft:sniffer_egg",
+      "type": "adminshop",
+      "adminShopBuyPrice": 3000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 19
+    },
+    {
+      "item": "minecraft:ink_sac",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:kelp",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Items",
+      "adminShopSlot": 14
+    },
+    {
+      "item": "minecraft:calcite",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Blocks",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:pig_spawn_egg",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 16
+    },
+    {
+      "item": "minecraft:emerald",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 16
+    },
+    {
+      "item": "netherstar_shards:netherstarshard",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20000.0,
+      "category": "$1000+ Shop:Items",
+      "adminShopSlot": 25
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Items",
+      "adminShopSlot": 18
+    },
+    {
+      "item": "minecraft:spruce_sapling",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Saplings",
+      "adminShopSlot": 2
+    },
+    {
+      "item": "minecraft:dripstone_block",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1250.0,
+      "category": "$1000+ Shop:Blocks",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:wheat_seeds",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Seeds",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:beef",
+      "type": "adminshop",
+      "adminShopBuyPrice": 20.0,
+      "category": "$20 Shop:Items",
+      "adminShopSlot": 3
+    },
+    {
+      "item": "create:ochrum",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 21
+    },
+    {
+      "item": "create_sa:creative_filling_tank",
+      "type": "adminshop",
+      "adminShopBuyPrice": 200000.0,
+      "category": "$Creative Shop:Items",
+      "adminShopSlot": 0
+    },
+    {
+      "item": "minecraft:soul_soil",
+      "type": "adminshop",
+      "adminShopBuyPrice": 100.0,
+      "category": "$100 Shop:Blocks",
+      "adminShopSlot": 19
+    },
+    {
+      "item": "create:creative_motor",
+      "type": "adminshop",
+      "adminShopBuyPrice": 500000.0,
+      "category": "$Creative Shop:Blocks",
+      "adminShopSlot": 18
+    },
+    {
+      "item": "minecraft:feather",
+      "type": "adminshop",
+      "adminShopBuyPrice": 10.0,
+      "category": "$10 Shop:Items",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "minecraft:sponge",
+      "type": "adminshop",
+      "adminShopBuyPrice": 1000.0,
+      "category": "$1000 Shop:Blocks",
+      "adminShopSlot": 3
+    },
+    {
+      "item": "minecraft:brown_mushroom_block",
+      "type": "adminshop",
+      "adminShopBuyPrice": 50.0,
+      "category": "$50 Shop:Blocks",
+      "adminShopSlot": 4
+    },
+    {
+      "item": "minecraft:coarse_dirt",
+      "type": "adminshop",
+      "adminShopBuyPrice": 10.0,
+      "category": "$10 Shop:Blocks",
+      "adminShopSlot": 1
+    },
+    {
+      "item": "farmersdelight:cabbage_seeds",
+      "type": "adminshop",
+      "adminShopBuyPrice": 5.0,
+      "category": "$5 Shop:Seeds",
+      "adminShopSlot": 3
+    },
+    {
+      "item": "create_ethium:lost_debris",
+      "type": "prices",
+      "sellPrice": 5000.0,
+      "importerBuyPrice": 10000.0
+    }
+  ],
+  "categories": [
+    {
+      "item": "jackseconomy:dollar_bill",
+      "name": "$1 Shop",
+      "categories": [
+        {
+          "item": "minecraft:name_tag",
+          "name": "Items"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Blocks"
+        }
+      ]
+    },
+    {
+      "item": "jackseconomy:five_dollar_bill",
+      "name": "$5 Shop",
+      "categories": [
+        {
+          "item": "minecraft:name_tag",
+          "name": "Items"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Blocks"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Seeds"
+        },
+	      {
+	        "item": "minecraft:name_tag",
+	        "name": "Pam's Harvestcraft 2"
+        }
+      ]
+    },
+    {
+      "item": "jackseconomy:ten_dollar_bill",
+      "name": "$10 Shop",
+      "categories": [
+        {
+          "item": "minecraft:name_tag",
+          "name": "Items"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Blocks"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Saplings"
+        }
+      ]
+    },
+    {
+      "item": "jackseconomy:twenty_dollar_bill",
+      "name": "$20 Shop",
+      "categories": [
+        {
+          "item": "minecraft:name_tag",
+          "name": "Items"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Blocks"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Saplings"
+        }
+      ]
+    },
+    {
+      "item": "jackseconomy:fifty_dollar_bill",
+      "name": "$50 Shop",
+      "categories": [
+        {
+          "item": "minecraft:name_tag",
+          "name": "Items"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Blocks"
+        }
+      ]
+    },
+    {
+      "item": "jackseconomy:hundred_dollar_bill",
+      "name": "$100 Shop",
+      "categories": [
+        {
+          "item": "minecraft:name_tag",
+          "name": "Items"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Blocks"
+        }
+      ]
+    },
+    {
+      "item": "jackseconomy:thousand_dollar_bill",
+      "name": "$1000 Shop",
+      "categories": [
+        {
+          "item": "minecraft:name_tag",
+          "name": "Items"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Blocks"
+        }
+      ]
+    },
+    {
+      "item": "jackseconomy:dollar_bill_stack",
+      "name": "$1000+ Shop",
+      "categories": [
+        {
+          "item": "minecraft:name_tag",
+          "name": "Items"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Blocks"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Seeds"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Plants"
+        }
+      ]
+    },
+    {
+      "item": "create:creative_blaze_cake",
+      "name": "$Creative Shop",
+      "categories": [
+        {
+          "item": "minecraft:name_tag",
+          "name": "Items"
+        },
+        {
+          "item": "minecraft:name_tag",
+          "name": "Blocks"
+        }
+      ]
+    }
+  ]
+}
