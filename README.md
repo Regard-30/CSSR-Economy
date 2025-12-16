@@ -1,1 +1,1 @@
-Please go to Realeases and download the newest Version
+Please go to Releases and download the newest Version
